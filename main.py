@@ -1,4 +1,6 @@
 
+
+# Logic for checking if the word is palindromic or not
 while True:
     word = input('Please, type in a word to check or "Quit" to exit: ')
     if word.isalpha():
